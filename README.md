@@ -12,6 +12,8 @@ I'm a passionate **Data Analyst** and **Programmer** with a degree in Computer S
 - Python
 - C
 - C++
+- Power Bi
+- Tableau
 - Java
 - SQL
 - SSMS
